@@ -1,9 +1,7 @@
 # Projeto Java Vibe Coding - Sistema PetShop
 
 **Disciplina:** Programação Orientada a Objetos (POO)  
-**Professor:** Antonio Santos de Sousa  
-**Data de Entrega:** 12/01/2026  
-**Status:** Finalizado 🚀
+**Professor:** Antonio Santos de Sousa
 
 ## Identificação 
 * **Membro 1:** Luana Cristina Silva Souza
